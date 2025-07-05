@@ -1,0 +1,5 @@
+Django>=4.2
+djangorestframework>=3.14
+cryptography>=42.0
+textblob>=0.17.1
+django-cors-headers>=4.0
