@@ -11,7 +11,8 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'GBV Report App',
+      debugShowCheckedModeBanner: false,
+      title: 'Safe Report App',
       theme: ThemeData(primarySwatch: Colors.blue),
       home: const LoginScreen(),
     );
