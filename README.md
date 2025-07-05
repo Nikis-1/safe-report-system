@@ -51,17 +51,6 @@ It empowers victims or witnesses to **speak up securely** and ensures staff can 
 
 ---
 
-## 🗂️ Project Structure
-
-gbv_system/
-├── accounts/ # User auth: signup, login
-├── reports/ # Models, encryption, sentiment analysis
-├── api/ # Django REST API
-├── flutter_app/ # Flutter frontend (submit & view reports)
-├── manage.py
-├── requirements.txt
-├── README.md
-
 ## 🚀 Setup Instructions
 1️⃣ Backend
 
